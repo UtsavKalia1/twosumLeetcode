@@ -10,6 +10,8 @@
 //use the the same element twice
 public class Main {
     public static void main(String[] args) {
-
+Solution solution = new Solution();
+int array[] = {1,2,3};
+solution.twoSum(array,5);
     }
 }
